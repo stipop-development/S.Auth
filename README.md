@@ -4,11 +4,11 @@ SAuth(Service Authentication) is a protocol for B2B solution services to authent
 
 ## 1. Introduction
 
-There are many B2B services communicating directly to their customer's end users. They should authenticate and identify each end-users but there was no standard protocol to do it.
+There are many B2B services communicating directly to their customer's end users. In most cases, they need to authenticate and identify each end-users to ensure secure usage of service. However, there isn't a standard protocol to do so.
 
-Most services found their own way to do so and fortunately, we found they're similar to each others.
+Most services found their own way to do so and fortunately, we found they're similar to one another.
 
-This SAuth protocol is nothing but an organized set of them. With this, we hope all the terminologies and communication sequences to be clarified and standardized.
+This SAuth protocol is nothing but an organized set of them. With this, we hope all the terminologies and communication sequences can be clarified and standardized.
 
 ## 2. Roles
 
@@ -56,4 +56,4 @@ SAuth protocol is under the MIT License.
 
 ### 5-B. Community
 
-If you have any problem or question, please make an issue on Github.
+If you have any problems or questions, please make an issue on Github.
